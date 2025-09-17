@@ -4,16 +4,24 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## Equipe 7: DataMiners
-- David Melo  
-- Ana Caroline Santos  
-- Kevely William  
-- Debora Moseane Dos Santos  
-- Beatriz Marques  
-- Mariana Freitas  
-- Pedro Filho  
-- Mateus Jairan de Sousa Rodrigues  
+---
 
+## Bibliotecas Usadas
+### Manipulação de Dados
+- `pandas` – análise e manipulação de DataFrames  
+- `numpy` – operações numéricas  
+
+### Visualização
+- `matplotlib` – gráficos e visualizações básicas  
+- `seaborn` – gráficos estatísticos avançados  
+
+### Modelagem e Pré-processamento
+- `scikit-learn` (`sklearn`) – modelos de regressão, métricas, KNNImputer, StandardScaler, train_test_split, OneHotEncoder, OrdinalEncoder, Cross-Validation  
+
+### Outras (opcionais)
+- `missingno` – visualização de valores ausentes  
+- `plotly` – gráficos interativos
+  
 ---
 
 ## Sobre o Projeto
