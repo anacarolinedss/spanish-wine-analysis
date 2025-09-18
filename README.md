@@ -25,7 +25,7 @@
 ---
 
 ## Sobre o Projeto
-O projeto **Spanish Wine Analysis** foi desenvolvido durante o Bootcamp de Ciências de Dados **Atlântico Avanti** em grupo. O objetivo é explorar, limpar e analisar dados de vinhos espanhóis premium, além de comparar diferentes modelos preditivos para prever a qualidade (rating) dos vinhos.
+O projeto **Spanish Wine Analysis** foi desenvolvido durante o Bootcamp de Ciências de Dados **Atlântico Avanti** em grupo. O objetivo consistiu em explorar, limpar e analisar dados de vinhos espanhóis premium, além de comparar diferentes modelos preditivos para prever a qualidade (rating) dos vinhos.
 
 ---
 
