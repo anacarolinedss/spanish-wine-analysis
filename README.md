@@ -1,4 +1,4 @@
-# Análise e Predição de Dados de Vinhos Espanhóis 🍷
+# Análise e Predição da Qualidade de Vinhos Espanhóis🍷
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
